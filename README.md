@@ -1,2 +1,1 @@
-# hello-world
-存贮库
+I want to learn about GitHub
